@@ -12,11 +12,6 @@ void write_type_file(struct stat stat1)
 
 }
 
-void write_type_file(struct stat stat1)
-{
-
-}
-
 void write_permission(struct stat stat1)
 {
 
